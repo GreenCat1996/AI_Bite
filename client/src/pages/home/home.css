@@ -1,0 +1,157 @@
+.list {
+  padding: 1rem 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.list-item {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  font-size: 1.25rem;
+}
+
+.list-item:hover {
+  background-color: #cdffbe;
+  cursor: pointer;
+}
+
+.last-call {
+  padding: 1rem 0;
+  display: flex;
+  font-size: 1.3rem;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.content {
+  padding: 1rem 3rem;
+  display: flex;
+  font-size: 1.3rem;
+  flex-direction: column;
+  gap: 1rem;
+}
+.main {
+  height: 10%;
+  background-color: #1252d1;
+  color: white;
+  display: flex;
+  align-items: center;
+  font-size: 1.5rem;
+}
+@font-face {
+  font-family: 'MyCustomFont';
+  src: url('./BRUSHSCI.TTF');
+}
+.title {
+  width: 90%;
+  display: flex;
+  align-items: center;
+}
+.topic {
+  width: 13rem;
+  font-size: 1.5rem;
+}
+.settings {
+  width: 60%;
+  margin-right: 2rem;
+  display: flex;
+  justify-content: center;
+}
+h1 {
+  font-family: 'MyCustomFont', Arial, sans-serif;
+  color: #ff0;
+  display: flex;
+  width: 5rem;
+  margin: 0.5rem;
+  align-items: center;
+}
+.calendar {
+  display: flex;
+  justify-content: center;
+}
+#arrow {
+  font-size: 2rem;
+  align-items: center;
+}
+.middle {
+  width: 80%;
+  background-color: #062ca7e0;
+  border-radius: 2rem;
+}
+.header {
+  font-size: 1rem;
+  padding: 1rem;
+  margin: 2rem;
+}
+#email-text {
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  padding: 1rem;
+}
+.access {
+  width: 15rem;
+  justify-content: center;
+  align-items: center;
+  background-color: #09aee0;
+  margin-left: auto;
+  margin-bottom: 4rem;
+  margin-top: 22rem;
+  padding: 1rem;
+  border-radius: 1rem;
+  z-index: 1000;
+}
+.key {
+  width: 95%;
+  height: 2rem;
+  font-size: 1rem;
+}
+.footer {
+  margin: 2rem 1rem;
+  display: flex;
+  justify-content: center;
+}
+.checkbox-circle {
+  height: 1.5rem;
+  display: flex;
+  align-items: center;
+  font-size: 1.3rem;
+  margin-top: 1rem;
+}
+.checkbox-circle:hover {
+  background-color: #cdffbe;
+  height: 1.8rem;
+  /* width: 25rem; */
+  cursor: pointer;
+}
+.call {
+  display: flex;
+  font-size: 1.5rem;
+}
+.radio {
+  width: 20px;
+  height: 20px;
+  margin-right: 2rem;
+}
+/* .checkbox-circle input[type='checkbox']:checked + label {
+  background-color: #00ee00;
+  border-color: #3d9400;
+  border-radius: 50%;
+} */
+.checkbox-circle label {
+  display: inline-block;
+  cursor: pointer;
+  border: solid 1px #999999;
+  border-radius: 50%;
+}
+.para {
+  margin-left: 2rem;
+  display: flex;
+  align-items: center;
+}
+#dot {
+  rotate: 90deg;
+}

@@ -1,0 +1,53 @@
+{
+    "_id" : ObjectId("64f68593bf34a17eb817c138"),
+    "email_id" : "xkickai@gmail.com",
+    "access_key" : " ",
+    "secret_key" : " ",
+    "call" : [
+        {
+            "from" : "09 AM",
+            "to" : "10 AM",
+            "call_id" : "Callie @DnB Inc.",
+            "last_call" : "9-10 AM @08/01/23",
+            "call_summary" : "We discussed the features and caliabilities of our IoT software platfrom in detail.",
+            "actionable_items" : " Please review the attached proposal,which includes pricing details and a breakdown of the feautres you requested.",
+            "ai_bites" : "Not worth pursuing; in stead focus on ABC Paint customer"
+        },
+        {
+            "from" : "10.30 AM",
+            "to" : "11 AM",
+            "call_id" : "Ram @Plc Inc.",
+            "last_call" : "10-10.30 AM @08/01/23",
+            "call_summary" : "We discussed the features and caliabilities of our IoT software platfrom in detail.",
+            "actionable_items" : " Please review the attached proposal,which includes pricing details and a breakdown of the feautres you requested.",
+            "ai_bites" : "Not worth pursuing; in stead focus on ABC Paint customer"
+        },
+        {
+            "from" : "12 AM",
+            "to" : "1 PM",
+            "call_id" : "Greg @Plc Inc.",
+            "last_call" : "12-1 AM @08/01/23",
+            "call_summary" : "We discussed the features and caliabilities of our IoT software platfrom in detail.",
+            "actionable_items" : " Please review the attached proposal,which includes pricing details and a breakdown of the feautres you requested.",
+            "ai_bites" : "Not worth pursuing; in stead focus on ABC Paint customer"
+        },
+        {
+            "from" : "2 PM",
+            "to" : "3 PM",
+            "call_id" : "Brittany @ABC Paint.",
+            "last_call" : "2-3 PM  @08/01/23",
+            "call_summary" : "We discussed the features and caliabilities of our IoT software platfrom in detail.",
+            "actionable_items" : " Please review the attached proposal,which includes pricing details and a breakdown of the feautres you requested.",
+            "ai_bites" : "Not worth pursuing; in stead focus on ABC Paint customer"
+        },
+        {
+            "from" : "4 PM",
+            "to" : "5 PM",
+            "call_id" : "Jane @West Elm.",
+            "last_call" : "4-5 PM @08/01/23",
+            "call_summary" : "We discussed the features and caliabilities of our IoT software platfrom in detail.",
+            "actionable_items" : " Please review the attached proposal,which includes pricing details and a breakdown of the feautres you requested.",
+            "ai_bites" : "Not worth pursuing; in stead focus on ABC Paint customer"
+        }
+    ]
+}
